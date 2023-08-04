@@ -7,7 +7,7 @@ My diverse skill set includes HTML, CSS, Bootstrap, JavaScript, React, Python, D
 ![Doğa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeastZoro&show_icons=true)
 
 
-Skills: HTML / CSS / Bootstrap / JavaScript / Python / Django
+Skills: HTML / CSS / Bootstrap / JavaScript / React JS / Python / Django
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BeastZoro)  
 
