@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-16665
-Fork on GitHub
-4703
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Mukesh</h1>
 <h3 align="center">a passionate Python Full Stack Developer with a love for crafting clean, efficient, and scalable applications.</h3>
 
