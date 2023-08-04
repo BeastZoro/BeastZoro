@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mukesh</h1>
-<h3 align="center">a passionate Python Full Stack Developer with a love for crafting clean, efficient, and scalable applications.</h3>
+<h3 align="center">A passionate Python Full Stack Developer with a love for crafting clean, efficient, and scalable applications.</h3>
 
 
 - 🔭 I’m currently working on [Color Pallete generator](https://r-colors-pallete.netlify.app)
