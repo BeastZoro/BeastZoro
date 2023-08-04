@@ -6,8 +6,36 @@ My diverse skill set includes HTML, CSS, Bootstrap, JavaScript, React, Python, D
 
 ![Doğa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeastZoro&show_icons=true)
 
-### Programming Languages:
-
-<img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue" style="margin:5px" /><img src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp&logoColor=green" style="margin:5px" /><img src="http://img.shields.io/badge/-lua-black?style=for-the-badge&logo=lua&logoColor=blue" style="margin:5px" /><img src="http://img.shields.io/badge/-c-black?style=for-the-badge&logo=c&logoColor=white" style="margin:5px" /><img src="http://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=orange" style="margin:5px" /><img src="http://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" style="margin:5px" />
-
-### APIs:
+<html>
+<head>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+  />
+  <style>
+    .language-icon {
+      display: inline-flex;
+      align-items: center;
+      margin-right: 10px;
+    }
+    .language-icon i {
+      margin-right: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>My Favorite Programming Languages</h1>
+  <div class="languages">
+    <div class="language-icon">
+      <i class="fab fa-python"></i> Python
+    </div>
+    <div class="language-icon">
+      <i class="fab fa-js"></i> JavaScript
+    </div>
+    <div class="language-icon">
+      <i class="fab fa-java"></i> Java
+    </div>
+    <!-- Add more languages and icons as needed -->
+  </div>
+</body>
+</html>
